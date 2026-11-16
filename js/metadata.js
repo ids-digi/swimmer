@@ -1,33 +1,22 @@
 const data = {
     "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
+    "slug": "Olympic Swimmer",
+    "headline": "Across the world and back: Inside Tomer Frankel’s 6000-mile journey to swim for Indiana",
+    "title": "Olympic Swimmer",
     "pub_date": "{insert your date in metadata.json}",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
-        },
-        "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Nathan Shriberg",
+            "email": "naashri@iu.edu",
+            "twitter": "NShriberg",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/df03802b-fffd-49c1-8abf-ccebec295bc4.original.jpg",
+            "bio": "Nathan has worked at the IDS since 2024 and covers Indiana football and men’s basketball."
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
-        },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
+            "name": "Lillie Donato",
+            "email": "mdonato@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/892b8a83-4320-4435-804c-6eff0e6903eb.original.jpg",
+            "bio": "Lillie has worked at the IDS since 2026 and currently serves as the managing editor of digital."
         }
     }
 }
