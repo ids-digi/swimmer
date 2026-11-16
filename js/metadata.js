@@ -1,9 +1,9 @@
 const data = {
-    "url": "your-url-here",
+    "url": "indiana-university-olympic-swimmer",
     "slug": "Olympic Swimmer",
     "headline": "Across the world and back: Inside Tomer Frankel’s 6000-mile journey to swim for Indiana",
     "title": "Olympic Swimmer",
-    "pub_date": "{insert your date in metadata.json}",
+    "pub_date": "November 16, 2026",
     "bylines": {
         "By": {
             "name": "Nathan Shriberg",
